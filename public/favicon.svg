@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="amalfiGoldFav" x1="15%" y1="10%" x2="85%" y2="90%">
+      <stop offset="0%" stop-color="#FFF1B8" />
+      <stop offset="20%" stop-color="#E5C158" />
+      <stop offset="45%" stop-color="#FFF4C2" />
+      <stop offset="70%" stop-color="#D4AF37" />
+      <stop offset="90%" stop-color="#966C10" />
+      <stop offset="100%" stop-color="#D8B145" />
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="1000" rx="200" fill="#121212"/>
+  <rect width="960" height="960" x="20" y="20" rx="180" fill="none" stroke="#D4AF37" stroke-width="12" stroke-opacity="0.3"/>
+  
+  <!-- 7 Swirling Golden Ribbons -->
+  <g transform="translate(50, 50) scale(0.9)">
+    <path d="M 585 58 C 660 90 770 180 848 282 C 770 195 678 128 585 58 Z" fill="url(#amalfiGoldFav)" />
+    <path d="M 264 146 C 410 70 560 120 732 248 C 812 308 860 365 880 398 C 825 330 735 258 605 190 C 470 120 345 130 264 146 Z" fill="url(#amalfiGoldFav)" />
+    <path d="M 140 342 C 160 270 200 220 220 218 C 365 240 540 305 730 380 C 815 412 865 425 884 425 C 840 435 760 415 625 358 C 475 295 310 275 140 342 Z" fill="url(#amalfiGoldFav)" />
+    <path d="M 122 430 C 120 480 124 535 142 562 C 280 520 485 520 685 530 C 790 535 855 510 888 460 C 860 480 775 490 645 478 C 480 462 290 415 122 430 Z" fill="url(#amalfiGoldFav)" />
+    <path d="M 152 630 C 180 690 212 735 245 745 C 370 695 530 670 705 650 C 800 640 850 610 864 576 C 825 615 725 635 570 648 C 390 662 250 622 152 630 Z" fill="url(#amalfiGoldFav)" />
+    <path d="M 248 795 C 295 845 350 875 385 882 C 485 825 610 780 735 730 C 800 702 830 680 838 672 C 790 718 695 762 550 802 C 410 840 305 818 248 795 Z" fill="url(#amalfiGoldFav)" />
+    <path d="M 408 894 C 475 908 555 905 618 880 C 700 845 750 805 772 792 C 720 835 635 878 528 896 C 470 905 428 900 408 894 Z" fill="url(#amalfiGoldFav)" />
+  </g>
+</svg>
